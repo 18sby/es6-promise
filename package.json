@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/18sby/es6-promise/issues"
   },
-  "homepage": "https://github.com/18sby/es6-promise#readme"
+  "homepage": "https://github.com/18sby/es6-promise#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
 }
